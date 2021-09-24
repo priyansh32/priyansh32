@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/priyansh_32" target="blank"><img src="https://img.shields.io/twitter/follow/priyansh_32?logo=twitter&style=for-the-badge" alt="priyansh_32" /></a> </p>
 
-- 🔭 I’m currently working on [DogeBot](https://github.com/priyansh32/DogeBot)
+- 🔭 I’m currently working on [cms-api](https://github.com/nitk-kode/cms-api)
 
 - 🌱 I’m currently learning **Data Structure and Algorithms with JAVA**
 
