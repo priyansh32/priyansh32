@@ -15,6 +15,8 @@
 
 - 📫 How to reach me, mail **patidar.priyansh936@gmail.com** or just message me on any social app
 
+- 👨‍💻 I just started writing Blogs, Check out my first blog here https://priyansh32.hashnode.dev/
+
 - ⚡ Fun fact **I sometimes shoot animals😈! Check my [Instagram profile](https://instagram.com/priyanshh32)**
 
 <h3 align="left">Connect with me:</h3>
