@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyansh32" alt="priyansh32" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/priyanshh32" target="blank"><img src="https://img.shields.io/twitter/follow/priyanshh32?logo=twitter&style=for-the-badge" alt="priyanshh32" /></a> </p>
+<p align="left"> <a href="https://twitter.com/priyanshh32" target="blank"><img src="https://img.shields.io/badge/priyanshh32-blue?style=for-the-badge&logo=twitter&label=Follow" alt="priyanshh32" /></a> </p>
 
 - 🔭 I’m currently pursuing my B.Tech. in CSE at NITK Surathkal, India.
 
